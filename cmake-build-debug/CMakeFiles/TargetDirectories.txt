@@ -1,0 +1,3 @@
+D:/ProgrammingLangsITMO/embedded-systems/cmake-build-debug/CMakeFiles/peparser.dir
+D:/ProgrammingLangsITMO/embedded-systems/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ProgrammingLangsITMO/embedded-systems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
