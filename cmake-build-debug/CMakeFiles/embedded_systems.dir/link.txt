@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\embedded_systems.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\embedded_systems.dir/objects.a @CMakeFiles\embedded_systems.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\embedded_systems.dir/objects.a -Wl,--no-whole-archive -o embedded_systems.exe -Wl,--out-implib,libembedded_systems.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\embedded_systems.dir\linklibs.rsp
